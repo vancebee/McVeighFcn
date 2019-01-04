@@ -1,11 +1,6 @@
 Package: McVeighFcn
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Implements the McVeigh algorithm to detect sleeping time in accelerometer data.
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
-Encoding: UTF-8
-LazyData: true
+Author: Vincent Berardi, Chapman University and John Bellettiere, University of California San Diego
+Maintainer: Vincent Berardi <berardi@chapman.edu>
