@@ -62,7 +62,8 @@ McVeighFcn returns a data frame with the following variables:
 McVeigh, J. A., Winkler, E. A., Healy, G. N., Slater, J., Eastwood, P. R., & Straker, L. M. (2016). Validity of an automated algorithm to identify waking and in-bed wear time in hip-worn accelerometer data collected with a 24 h wear protocol in young adults. \emph{Physiological Measurement}, 37(10), 1636.
 }
 \author{
-Vincent Berarardi,Assistant Professor, Chapman University, Department of Psychology
+Vincent Berarardi,Assistant Professor, Chapman University, Department of Psychology;
+John Bellettiere, Post Doctoral Research Fellow, University of California San Diego
 }
 \note{
 %%  ~~further notes~~
